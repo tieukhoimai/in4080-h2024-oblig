@@ -158,3 +158,4 @@ cython_debug/
 # Model
 runs/
 checkpoints/
+tmp_trainer/
